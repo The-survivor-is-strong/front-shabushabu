@@ -12,14 +12,9 @@
 
 # 🥬 스터디 내용
 
-- <b>React 19 톺아보기</b>  
-  - [@soyoonJ](https://github.com/soyoonJ)
-
-- <b>React Folder 구조</b>
-  - [@hty0525](https://github.com/hty0525)
-
-- <b>사이드 프로젝트</b>
-  - [@Jaeeun98](https://github.com/Jaeeun98)
+1. <b>React 19 톺아보기</b>: [@soyoonJ](https://github.com/soyoonJ)
+2. <b>React Folder 구조</b>: [@hty0525](https://github.com/hty0525)
+3. <b>사이드 프로젝트</b>: [@Jaeeun98](https://github.com/Jaeeun98)
 
 
 # [참여인원]

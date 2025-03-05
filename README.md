@@ -16,7 +16,7 @@
 |---------------|-------------------------|---------------------|
 |[React 19 톺아보기](https://github.com/The-survivor-is-strong/front-shabushabu/tree/main/1.React19)| 2025.01.16 ~ 2025.02.13 | [@soyoonJ](https://github.com/soyoonJ) |
 |[React Folder 구조](https://github.com/The-survivor-is-strong/front-shabushabu/tree/main/2.%ED%8F%B4%EB%8D%94%EA%B5%AC%EC%A1%B0)| 2025.02.27 | [@hty0525](https://github.com/hty0525)|
-|[사이드 프로젝트](https://github.com/The-survivor-is-strong/front-shabushabu/tree/main/3.%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)| 2025.03.06 ~ | |[@Jaeeun98](https://github.com/Jaeeun98)|
+|[사이드 프로젝트](https://github.com/The-survivor-is-strong/front-shabushabu/tree/main/3.%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)| 2025.03.06 ~ | [@Jaeeun98](https://github.com/Jaeeun98)|[@Jaeeun98](https://github.com/Jaeeun98)|
 
 
 # [참여인원]

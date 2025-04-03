@@ -11,4 +11,4 @@
 | 김승우 |                                                                                       |
 | 오소현 |                                                                                       |
 | 황태영 | [블로그](https://velog.io/@hty0525/CSS-%EC%A2%8B%EC%95%84%ED%95%98%EC%84%B8%EC%9A%94) |
-| 장동진 |                                                                                       |
+| 장동진 | [블로그](https://velog.io/@exciting_road/내가-사용한-CSS와-클래스-네이밍-전략)           |

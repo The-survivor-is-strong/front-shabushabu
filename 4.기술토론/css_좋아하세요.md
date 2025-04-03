@@ -5,10 +5,10 @@
 | 이름   | 코드링크                                                                              |
 | ------ | ------------------------------------------------------------------------------------- |
 | 정소윤 |                                                                                       |
-| 이미연 | [notion](https://miori-space.notion.site/css-1c85d43d43d8800c8510f0d05dc4a697?pvs=73)  |
+| 이미연 | [notion](https://miori-space.notion.site/css-1c85d43d43d8800c8510f0d05dc4a697?pvs=73) |
 | 이상봉 |                                                                                       |
 | 권재은 | [notion](https://www.notion.so/CSS-1c7bee6652f78027a20dc6a3ef85d3db?pvs=4)            |
 | 김승우 |                                                                                       |
 | 오소현 |                                                                                       |
 | 황태영 | [블로그](https://velog.io/@hty0525/CSS-%EC%A2%8B%EC%95%84%ED%95%98%EC%84%B8%EC%9A%94) |
-| 장동진 | [블로그](https://velog.io/@exciting_road/내가-사용한-CSS와-클래스-네이밍-전략)           |
+| 장동진 | [블로그](https://velog.io/@exciting_road/내가-사용한-CSS와-클래스-네이밍-전략)        |

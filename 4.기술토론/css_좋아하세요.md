@@ -4,7 +4,7 @@
 
 | 이름   | 코드링크                                                                              |
 | ------ | ------------------------------------------------------------------------------------- |
-| 정소윤 |                                                                                       |
+| 정소윤 | [내가 겪은 CSS 스타일링 전략의 변화와 고민들 🤔](https://soyoondaily.tistory.com/entry/내가-겪은-CSS-스타일링-전략의-변화와-고민들-🤔) |
 | 이미연 | [notion](https://miori-space.notion.site/css-1c85d43d43d8800c8510f0d05dc4a697?pvs=73) |
 | 이상봉 | [notion](https://www.notion.so/CSS-1c9f5e18d0358079b3fef34b3f38a870)                  |
 | 권재은 | [notion](https://www.notion.so/CSS-1c7bee6652f78027a20dc6a3ef85d3db?pvs=4)            |

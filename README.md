@@ -4,27 +4,28 @@
 
 처음엔 샤브샤브처럼 가볍게 찍먹하듯 시작하지만, 토론하고 고민하는 과정에서 점점 우러나듯 깊이 있는 탐구로 이어질 수도 있어요. 프론트엔드뿐만 아니라 백엔드, 디자인, 개발 문화 같은 주제도 다룰 수 있고, 다 같이 경험해 보면서 자연스럽게 자기만의 인사이트를 쌓아가는 게 목표예요!
 
-
 # [공통]
+
 - 매주 목요일 21:30 비대면 모임
 - 매주차 README.md에 개인정리 링크 업로드
 
-
 # 🥬 스터디 내용
 
-|   스터디 구분   |           진행일정          |         개설자      |
-|---------------|-------------------------|---------------------|
-|[React 19 톺아보기](https://github.com/The-survivor-is-strong/front-shabushabu/tree/main/1.React19)| 2025.01.16 ~ 2025.02.13 | [@soyoonJ](https://github.com/soyoonJ) |
-|[React Folder 구조](https://github.com/The-survivor-is-strong/front-shabushabu/tree/main/2.%ED%8F%B4%EB%8D%94%EA%B5%AC%EC%A1%B0)| 2025.02.27 | [@hty0525](https://github.com/hty0525)|
-|[사이드 프로젝트](https://github.com/The-survivor-is-strong/front-shabushabu/tree/main/3.%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)| 2025.03.06 ~ | [@Jaeeun98](https://github.com/Jaeeun98)|[@Jaeeun98](https://github.com/Jaeeun98)|
-
+| 스터디 구분                                                                                                                                                                 | 진행일정                | 개설자                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------- |
+| [React 19 톺아보기](https://github.com/The-survivor-is-strong/front-shabushabu/tree/main/1.React19)                                                                         | 2025.01.16 ~ 2025.02.13 | [@soyoonJ](https://github.com/soyoonJ)   |
+| [React Folder 구조](https://github.com/The-survivor-is-strong/front-shabushabu/tree/main/2.%ED%8F%B4%EB%8D%94%EA%B5%AC%EC%A0%B0)                                            | 2025.02.27              | [@hty0525](https://github.com/hty0525)   |
+| [사이드 프로젝트](https://github.com/The-survivor-is-strong/front-shabushabu/tree/main/3.%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)                   | 2025.03.06 ~            | [@Jaeeun98](https://github.com/Jaeeun98) |
+| [기술토론](https://github.com/The-survivor-is-strong/front-shabushabu/tree/main/4.%EA%B8%B0%EC%88%A0%ED%86%A0%EB%A1%A0)                                                     | 2025.03.06 ~            | [@soyoonJ](https://github.com/soyoonJ)   |
+| [테스트코드의필요성](https://github.com/The-survivor-is-strong/front-shabushabu/tree/main/5.%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C%ED%95%84%EC%9A%94%EC%84%B1)       | 2025.03.06 ~            | [@dongjang](https://github.com/dongjang) |
+| [나의-근거있는-FE-CONVENTION](https://github.com/The-survivor-is-strong/front-shabushabu/tree/main/6.%EB%82%98%EC%9D%98-%EA%B7%BC%EA%B1%B0%EC%9E%88%EB%8A%94-FE-CONVENTION) | 2025.03.06 ~            | [@iammiori](https://github.com/iammiori) |
 
 # [참여인원]
 
-|                                      권재은                                      |                                      김승우                                      |                                      오소현                                      |
-| :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
-| <img width="160px" src="https://avatars.githubusercontent.com/u/58484758?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/53055051?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/53892427?v=4" /> |
-|                     [@Jaeeun98](https://github.com/Jaeeun98)                     |                    [@kyh196201](https://github.com/kyh196201)                    |                  [@osohyun0224](https://github.com/osohyun0224)                  |
+|                                      권재은                                      |                                      김승우                                      |                                      오소현                                      |                                      장동진                                      |
+| :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
+| <img width="160px" src="https://avatars.githubusercontent.com/u/58484758?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/53055051?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/53892427?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/66932888?v=4" /> |
+|                     [@Jaeeun98](https://github.com/Jaeeun98)                     |                    [@kyh196201](https://github.com/kyh196201)                    |                  [@osohyun0224](https://github.com/osohyun0224)                  |                     [@dongjang](https://github.com/dongjang)                     |
 
 |                                      이미연                                      |                                      이상봉                                      |                                      정소윤                                      |                                      황태영                                      |
 | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: | :------------------------------------------------------------------------------: |
